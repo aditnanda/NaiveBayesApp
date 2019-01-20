@@ -1,0 +1,15 @@
+cuaca/suhu/kelembaban/berangin/bermain golf
+cerah,panas,tinggi,SALAH,tidak
+cerah,panas,tinggi,BENAR,tidak
+mendung,panas,tinggi,SALAH,iya
+hujan,sejuk,tinggi,SALAH,iya
+hujan,dingin,normal,SALAH,iya
+hujan,dingin,normal,BENAR,tidak
+mendung,dingin,normal,BENAR,iya
+cerah,sejuk,tinggi,SALAH,tidak
+cerah,dingin,normal,SALAH,iya
+hujan,sejuk,normal,SALAH,iya
+cerah,sejuk,normal,BENAR,iya
+mendung,sejuk,tinggi,BENAR,iya
+mendung,panas,normal,SALAH,iya
+hujan,sejuk,tinggi,BENAR,tidak
